@@ -1,1 +1,2 @@
-Учебный проект по генерации паролей
+### Password generator
+will be update soon...
